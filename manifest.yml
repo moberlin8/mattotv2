@@ -2,6 +2,7 @@ applications:
   - disk_quota: 1024M
     host: matto2tv
     name: MattO2.TV
+    command: node server
     path: .
     domain: mybluemix.net
     instances: 1
