@@ -12,6 +12,7 @@
     "npm": "2.7.4"
   },
   "scripts": {
+    "start": "node index.js",
     "deploy": "gulp deploy",
     "production": "gulp production",
     "gulp": "gulp",
