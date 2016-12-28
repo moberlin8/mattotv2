@@ -1,7 +1,7 @@
 applications:
   - disk_quota: 1024M
     host: mattotv2
-    name: MattO.TV
+    name: MattO2.TV
     path: .
     domain: mybluemix.net
     instances: 1
